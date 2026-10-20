@@ -1,0 +1,14 @@
+rank,name,role,impact_score,minutes,goals,assists,steals,goals_p90,assists_p90,steals_p90
+1,Bullet Dai,Attacker,60.7,820,15,6,9,1.646,0.659,0.988
+2,Arjun Dai,Playmaker,52.8,710,5,8,19,0.634,1.014,2.408
+3,Andrea Jeronimo,Playmaker,52.8,690,6,7,18,0.783,0.913,2.348
+4,Aavash Chhetri,Attacker,46.9,720,8,5,14,1.0,0.625,1.75
+5,Prakash Khadka,Playmaker,46.1,780,3,9,22,0.346,1.038,2.538
+6,Aaron Gurung,Defender,46.1,640,4,4,25,0.562,0.562,3.516
+7,Prassidha Neupane,Attacker,45.6,730,7,5,16,0.863,0.616,1.973
+8,Shashwat Pandey,Defender,45.6,600,2,3,30,0.3,0.45,4.5
+9,Rakin Hamal,Attacker,44.7,750,10,3,11,1.2,0.36,1.32
+10,Navin Budhathoki,Attacker,43.5,810,12,4,8,1.333,0.444,0.889
+11,Jivan Budhathoki,Defender,40.9,800,2,6,28,0.225,0.675,3.15
+12,Subash Bohora,Defender,28.5,850,1,2,35,0.106,0.212,3.706
+13,Rabin Basnet,Defender,27.9,870,0,1,41,0.0,0.103,4.241
